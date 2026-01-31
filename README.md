@@ -49,10 +49,7 @@
 </div>
  
 
-<h1>
-   <img src="images/deep_learning_forecast.png" width="42" style="vertical-align:middle"/>
-  Deep Learning for Retail Sales Forecasting
-</h1>
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/> Deep Learning for Retail Sales Forecasting
 
 <p><strong>End-to-End Time Series Analysis Based on IBM Data Science Methodology</strong></p>
 
