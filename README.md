@@ -47,10 +47,15 @@
 </table>
 
 </div>
+ 
 
+<h1>
+  <img src="assets/icons/deep_learning_forecast.png" width="40" style="vertical-align:middle"/>
+  Deep Learning for Retail Sales Forecasting
+</h1>
 
-# <img src="https://img.icons8.com/3d-fluency/94/target.png" width="50" height="50" style="vertical-align:bottom"/> Deep Learning for Retail Sales Forecasting
-**End-to-End Time Series Analysis Based on IBM Data Science Methodology**
+<p><strong>End-to-End Time Series Analysis Based on IBM Data Science Methodology</strong></p>
+
 
 This project implements an End-to-End Time Series Forecasting pipeline to predict future daily sales for a UK-based online retail store. Built strictly upon the IBM Data Science Methodology, the project handles real-world data challenges including noise, missing values, and seasonality.
 
